@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html lang="en" xmlns="http://www.w3.org/1999/xhtml" xmlns:th="http://www.thymeleaf.org">
+<head>
+    <title>测试JS</title>
+    <script src="../js/vendor/require.js"></script>
+    <script src="../js/page/ecmaScript5.js"></script>
+    <script>
+        function testalg() {
+            testmylearn();
+        }
+    </script>
+</head>
+<body>
+<div>
+    <h1 th:inline="text">Hello.v.2 testEcmaScript5</h1>
+
+    <p th:text="${hello}"></p>
+</div>
+
+<div>
+    <div id="jsFormSubmitSite">
+        <button class="btn btn-primary query-button">查询</button>
+    </div>
+    <div>
+        <button onclick="testalg()">TestAlg</button>
+    </div>
+</div>
+</body>
+</html>
