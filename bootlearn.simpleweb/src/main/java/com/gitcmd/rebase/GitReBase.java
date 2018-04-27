@@ -5,11 +5,15 @@ public class GitReBase {
         System.out.println("rebaseC3");
     }
 
-    public void rebaseC4(){
+    public void rebaseC4() {
 
     }
 
     public void rebaseC6() {
+
+    }
+
+    public void rebaseR2() {
 
     }
 }
