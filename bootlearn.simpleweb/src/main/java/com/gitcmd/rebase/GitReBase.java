@@ -6,7 +6,7 @@ public class GitReBase {
     }
 
     public void rebaseC4() {
-        System.out.println("rebaseC4");
+
     }
 
     public void rebaseC6() {
@@ -15,8 +15,5 @@ public class GitReBase {
 
     public void rebaseR2() {
 
-    }
-
-    public void rebaseR4() {
     }
 }
