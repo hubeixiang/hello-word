@@ -1,4 +1,4 @@
-package com.sven.proxy.v3;
+package com.sven.proxy.v4;
 
 
 import org.springframework.cglib.proxy.Enhancer;

@@ -1,4 +1,4 @@
-package com.sven.proxy.v4;
+package com.sven.proxy.v5;
 
 import net.sf.cglib.proxy.Enhancer;
 import net.sf.cglib.proxy.MethodInterceptor;
